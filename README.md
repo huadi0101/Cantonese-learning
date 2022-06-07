@@ -52,9 +52,9 @@ CCTALK-**[粤语零基础入门到全方位运用](https://www.cctalk.com/m/grou
 
 九声六调对照表
 
-![WechatIMG235.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14a39241-7549-444b-ae21-1af337ae8b26/WechatIMG235.png)
+![WechatIMG235.png](./WechatIMG235.png)
 
-![iShot_2022-06-01_00.14.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/842667a8-2b4d-4f3b-a5ca-12a4a2705df3/iShot_2022-06-01_00.14.11.png)
+![iShot_2022-06-01_00.14.11.png](./iShot_2022-06-01_00.14.11.png)
 
 韵母对照表
-![iShot_2022-06-06_23.10.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/440b4a48-c701-4de6-99db-22d1bed50a3e/iShot_2022-06-06_23.10.28.png)
+![iShot_2022-06-06_23.10.28.png](./iShot_2022-06-06_23.10.28.png)
